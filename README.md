@@ -92,12 +92,17 @@ Before running the project, configure your Supabase project and provide the requ
 The application is organized around the following main flows:
 
 - Splash
+- <img width="120" height="250" alt="Screenshot_1790863437" src="https://github.com/user-attachments/assets/b45265a5-1104-4b87-99de-8d87f275f761" />
+- Onboarding
+- <img width="120" height="250" alt="Screenshot_1790863708" src="https://github.com/user-attachments/assets/a61312be-373d-4a0f-b57c-4f8cc5ea1ed7" /> <img width="120" height="250" alt="Screenshot_1790863700" src="https://github.com/user-attachments/assets/1f2f8725-54be-4f3a-8d06-cf1fb53c06d7" /> <img width="120" height="250" alt="Screenshot_1790863715" src="https://github.com/user-attachments/assets/349f9d33-cd7c-4594-811a-8f7526288f16" />
 - Authentication
+- <img width="120" height="250" alt="Screenshot_1790863735" src="https://github.com/user-attachments/assets/0e9b2279-5e35-404e-aa0c-dd67ac7ce0de" /> <img width="120" height="250" alt="Screenshot_1790863726" src="https://github.com/user-attachments/assets/7ad6884c-8075-4522-8fb5-062e094adb62" />
 - Home
+- <img width="120" height="250" alt="Screenshot_1790863456" src="https://github.com/user-attachments/assets/0ce29599-679f-43b7-b194-062b7e937536" />
 - Categories
+- <img width="120" height="250" alt="Screenshot_1790863483" src="https://github.com/user-attachments/assets/ecd2a5c6-59c8-484e-9b5e-e59ecc7aa9c5" />
 - Shopping / Cart
-- Profile
-
+- <img width="120" height="250" alt="Screenshot_1790863479" src="https://github.com/user-attachments/assets/91792250-7237-4e2e-be4c-59d5aac34abc" />
 ## 🧠 Architecture & Development Practices
 
 The project follows a **feature-based architecture** with separation between UI, state management, repositories, models, and shared/core functionality where applicable.
